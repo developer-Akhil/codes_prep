@@ -4,7 +4,7 @@
 a = (1,2,1,3,4)
 
 # print(id(a[0]))
-# 
+ 
 # print(id(a[2]))
 
 result = [int(i) for i in a]
