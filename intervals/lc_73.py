@@ -24,9 +24,9 @@ class Solution:
 
         # def set_zeroes(self, matrix: List[List[int]]) -> None:
     #     rows, cols = len(matrix), len(matrix[0])
-    #
+    
     #     row_zero = False
-    #
+    
     #     for r in range(rows):
     #
     #         for c in range(cols):
