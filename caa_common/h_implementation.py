@@ -8,7 +8,6 @@ print(h)
 
 heapq.heappush(h,4)
 
-
 print(h)
 
 heapq.heappop(h)
