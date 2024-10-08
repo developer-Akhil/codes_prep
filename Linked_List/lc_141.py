@@ -16,7 +16,6 @@ The faster one is called the faster pointer and the other one is called the slow
 
 from typing import Optional
 
-
 class ListNode:
     def __init__(self, data=None, next=None):
         self.data = data
