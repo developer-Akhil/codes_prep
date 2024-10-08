@@ -23,7 +23,6 @@ def getCompressStr(StrVal: str):
 
     return res
 
-
 # def getCompressStr(Strval: str):
 #     ch = Strval[0]
 #
