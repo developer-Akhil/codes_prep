@@ -1,7 +1,6 @@
 # nums = 6
 #
 # l = [[] for i in range(6 + 1)]
-#
 # print(l)
 
 from typing import List
