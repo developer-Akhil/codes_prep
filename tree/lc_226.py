@@ -32,7 +32,6 @@ class Solution:
 
         return root
 
-
 if __name__ == '__main__':
     '''
                 10                                              10
