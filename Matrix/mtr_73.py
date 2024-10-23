@@ -57,6 +57,7 @@ class Solution:
             BELOW LOOP SET THE CORRESPONDING COLUMN 0
 
         '''
+
         for r in range(rLen):
             for c in range(cLen):
                 if col[c] == 0:
