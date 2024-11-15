@@ -28,3 +28,4 @@ intervals = [[1, 3], [2, 6], [8, 10], [15, 18]]
 # intervals=[[5, 7], [11, 116], [3, 4], [10, 12], [6, 12]]
 
 print(Solution().merge(intervals))
+
