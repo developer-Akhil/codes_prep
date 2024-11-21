@@ -38,4 +38,5 @@ class Solution:
 nums = [1, 2, 3]
 target = 4
 
-print(Solution().combinationSum4(nums, target))
+print(Solution().combinationSum4(nums, target)
+
