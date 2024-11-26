@@ -26,3 +26,4 @@ def div(a, b):
 print(div(10, 0))
 
 # print(div(10, 2))
+
