@@ -28,3 +28,4 @@ class Solution():
 
 strs = ["flower", "flow", "flight"]
 print(Solution().longestCommonPrefix(strs))
+
