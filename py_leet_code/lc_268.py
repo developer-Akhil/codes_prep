@@ -14,7 +14,6 @@ class Solution:
 
         return int(abs(sum_to_be - actual_sum))
 
-
 print(Solution().missingNumber([0, 1]))
 
 
