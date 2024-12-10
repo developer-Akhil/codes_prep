@@ -68,3 +68,4 @@ class Solution:
 matrix = [[1,1,1],[1,0,1],[1,1,1]]
 
 print(Solution().setZeroes(matrix))
+
