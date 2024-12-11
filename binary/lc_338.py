@@ -16,4 +16,3 @@ class Solution:
         return dp
 
 print(Solution().countBits(5))
-
