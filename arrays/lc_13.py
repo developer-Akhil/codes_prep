@@ -27,3 +27,4 @@ class Solution:
             prev = curr
 
         return total
+
