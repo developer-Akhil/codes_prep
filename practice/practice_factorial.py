@@ -8,3 +8,4 @@ class Solution:
             return n * Solution().getfactorial(n - 1)
 
 print(Solution().getfactorial(5))
+
