@@ -24,6 +24,7 @@ class Solution:
 
 print(Solution().findMin([3, 4, 5, 1, 2]))
 
+
 # Code
 # https://www.enjoyalgorithms.com/blog/minimum-in-sorted-and-rotated-array
 
