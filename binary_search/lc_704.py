@@ -20,7 +20,6 @@ class Solution:
         if l > r:
             print("There is no value is present")
 
-
 nums = [-1, 0, 3, 5, 9, 12]
 target = 0
 
