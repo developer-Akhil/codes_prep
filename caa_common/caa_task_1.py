@@ -1,8 +1,6 @@
 #T. C. = O(n)
 #S. C. = 1(n)
 
-
-
 l=[1,None,2,3,None,None,5 ,None]
 
 #l=[1,1,2,3,None,None,5 ,None]
