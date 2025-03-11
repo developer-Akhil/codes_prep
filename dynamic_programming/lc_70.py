@@ -18,5 +18,6 @@ class Solution(object):
 
         return curr
 
+
 print(Solution().climbStairs(5))
 
