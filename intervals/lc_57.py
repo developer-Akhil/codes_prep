@@ -41,3 +41,4 @@ intervals = [[2, 3], [3, 4], [6, 7]]
 newInterval = [4, 5]
 
 print(Solution().insert(intervals, newInterval))
+
