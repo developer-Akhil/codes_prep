@@ -22,3 +22,4 @@ class Solution:
 
 words = ["bella", "label", "roller"]
 print(Solution().commonChars(words))
+
