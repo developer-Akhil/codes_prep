@@ -17,3 +17,4 @@ def get_anagram(str1, str2):
 str1 = "abcd"
 str2 = "dabc"
 print(get_anagram(str1, str2))
+
