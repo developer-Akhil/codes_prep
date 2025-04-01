@@ -26,7 +26,6 @@ class Solution:
                     l = mid + 1
                 else:
                     r = mid - 1
-
         return -1
 
 nums = [4, 5, 6, 7, 0, 1, 2]
