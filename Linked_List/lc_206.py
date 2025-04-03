@@ -47,7 +47,6 @@ from typing import Optional
 
 # class Solution:
 
-
 firstNode = Node(1)
 linkedList = LinkedList()
 linkedList.insert(firstNode)
