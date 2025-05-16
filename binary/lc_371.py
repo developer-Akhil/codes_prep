@@ -25,4 +25,3 @@ class Solution(object):
     #     return a
 
 print(Solution().getSum(3,6))
-
