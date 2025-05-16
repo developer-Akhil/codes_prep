@@ -64,6 +64,7 @@ class Solution:
                     matrix[r][c] = 0
 
         return matrix
+        
 
 matrix = [[1,1,1],[1,0,1],[1,1,1]]
 
