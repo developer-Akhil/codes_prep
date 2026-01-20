@@ -31,3 +31,4 @@ class Solution:
 
 nums = [4, 5, 6, 7, 0, 1, 2]
 print(Solution().search(nums, 6))
+
