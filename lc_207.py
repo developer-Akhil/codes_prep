@@ -41,3 +41,4 @@ class Solution():
 # print(Solution().canFinish(2,[[1,0],[0,1]]))
 
 print(Solution().canFinish(5,[[0,1],[0,2],[1,3],[1,4],[3,4]]))
+
